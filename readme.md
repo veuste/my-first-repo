@@ -10,7 +10,7 @@ a local *habitation* and a **name**.
 - an unordered
 - list
 
-Here is 'some code' in the middle of a sentence.
+Here is `some code` in the middle of a sentence.
 
 '''
 this is
