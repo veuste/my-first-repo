@@ -12,12 +12,12 @@ a local *habitation* and a **name**.
 
 Here is `some code` in the middle of a sentence.
 
-'''
+```
 this is
 a
 block
 of code
-'''
+```
 
 here is how you make [a link](https://www.wikipedia.org/).
 
