@@ -10,14 +10,14 @@ a local *habitation* and a **name**.
 - an unordered
 - list
 
-Here is 'some code' in the middle of a sentence.
-
-'''
+Here is `some code` in the middle of a sentence.
+and `another`
+ 
+```
 this is
-a
-block
+a block
 of code
-'''
+```
 
 here is how you make [a link](https://www.wikipedia.org/).
 
